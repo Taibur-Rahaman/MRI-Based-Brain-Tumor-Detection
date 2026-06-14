@@ -90,7 +90,7 @@ This project uses the BraTS 2020 dataset:
 
 ## 👤 Author
 
-Taibur Rahaman
+**Md Taibur Rahaman** — [GitHub](https://github.com/Taibur-Rahaman)
 
 ## 📝 License
 
